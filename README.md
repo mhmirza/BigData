@@ -1,6 +1,6 @@
 # BigData
 
-This portfolio captures the work I completed for a course, Big Data and Large Scale Computing, at Carnegie Mellon University in Fall 2021. To view my GitHub repository, please click [here](https://github.com/mhmirza/BigData). The work done here involves hands-on experience with MapReduce and Apache Spark using real-world datasets. Each of the assignment below encapsulates a thorough grounding in the technologies and best practices used in Big Data Machine Learning.
+This portfolio captures the work I completed for a course, **Big Data and Large Scale Computing**, at Carnegie Mellon University in Fall 2021. To view my GitHub repository, please click [here](https://github.com/mhmirza/BigData). The work done here involves hands-on experience with MapReduce and Apache Spark using real-world datasets. Each of the assignment below encapsulates a thorough grounding in the technologies and best practices used in Big Data Machine Learning.
 
 # What I hope to learn?
 
