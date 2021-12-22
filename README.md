@@ -14,15 +14,21 @@ Here are the assignments that I completed during the course of this class.
 
 To view code for each, please click on the hyperlinks below.
 
-I. Integrated Manufacturing & Inventory Planning using Linear Optimization
+I. The volume of unstructured text in existence is growing dramatically, and Spark is an excellent tool for analyzing this type of data. In this homework, we will write code that calculates the most common words in the Complete Works of William Shakespeare retrieved from Project Gutenberg.
 
-II. Emergency Response using Integer Optimization
+[Introduction to PySpark and RDDs](https://github.com/mhmirza/BigData/blob/main/Assignment%201%20-%20Pyspark%20RDDs.ipynb)
 
-III. Traveling Salesman Problem using Integer Optimization
+II. This assignment covers a common supervised learning pipeline, using a modified version of the Million Song Dataset from the UCI Machine Learning Repository. Our goal is to train a linear regression model to predict the release year of a song given a set of audio features.
 
-IV. World Health Organization's Nutrition Policy using Multi-Objective Optimization
+[Linear Regression](https://github.com/mhmirza/BigData/blob/main/Assignment%202%20-%20Linear%20Regression.ipynb)
 
-V. Aircraft Configuration using Stochastic Optimization
+III. This assignment covers the steps for creating a click-through rate (CTR) prediction pipeline. We will work with the Criteo Labs dataset that was used for a recent Kaggle competition.
+
+[Click-Through Rate Prediction](https://github.com/mhmirza/BigData/blob/main/Assignment%203%20-%20CTR.ipynb)
+
+IV. This assignment delves into exploratory analysis of neuroscience data, specifically using principal component analysis (PCA) and feature-based aggregation. We will use a dataset of light-sheet imaging recorded by the Ahrens Lab at Janelia Research Campus, and hosted on the CodeNeuro data repository.
+
+[Principal Component Analysis](https://github.com/mhmirza/BigData/blob/main/Assignment%204%20-%20PCA.ipynb)
 
 # Final Project
 
