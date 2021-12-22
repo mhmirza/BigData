@@ -34,8 +34,8 @@ This assignment delves into exploratory analysis of neuroscience data, specifica
 
 **Brief Description:** The final project (to be updated) delves into exploratory analysis and building predictive models using the Yelp academic dataset. We will explore machine learning tasks in the context of a real-world data set using big data analysis tools. It contains the following parts:
 
-* Part 1: Exploratory Data Analysis Link Link
-* Part 2: Prediction using tree ensemble methods Link
-* Part 3: Collaborative filtering for recommendation Link
-* Part 4: Topic modeling for text reviews Link
-* Part 5: Word2Vec for text reviews Link
+* Part 1: Exploratory Data Analysis
+* Part 2: Prediction using tree ensemble methods
+* Part 3: Collaborative filtering for recommendation 
+* Part 4: Topic modeling for text reviews
+* Part 5: Word2Vec for text reviews
