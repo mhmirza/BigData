@@ -32,11 +32,10 @@ This assignment delves into exploratory analysis of neuroscience data, specifica
 
 # Final Project
 
-Brief Description: "To prepare for large public health emergencies, the Allegheny County is prioritizing the list of Points of Dispense (PODs) to open, which are used to distribute essential supplies and medicines to the public during such emergencies. Your goal for this project is to formulate a facility location model, and optimally select a list of PODs from the candidate sites. You need to compare two different formulations: minimizing the total/weighted travel distance of the population, and minimizing the maximum travel distance for anyone."
+**Brief Description:** This [project](https://github.com/mhmirza/BigData/blob/main/Mini%20Project.ipynb) delves into exploratory analysis and building predictive models using the Yelp academic dataset. We will explore machine learning tasks in the context of a real-world data set using big data analysis tools. It contains the following parts:
 
-Please click on the hyperlinks below to view the project details:
-
-Project Prompt
-Project Report & Mathematical Formulation
-Python Code
-Data Files
+* Part 1: Exploratory Data Analysis Link Link
+* Part 2: Prediction using tree ensemble methods Link
+* Part 3: Collaborative filtering for recommendation Link
+* Part 4: Topic modeling for text reviews Link
+* Part 5: Word2Vec for text reviews Link
