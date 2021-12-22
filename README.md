@@ -10,7 +10,7 @@ From the course, Big Data & Large Scale Computing, I wish to garner the knowledg
 
 Here are the assignments that I completed during the course of this class.
 
-# Case Studies
+# Assignments
 
 To view code for each, please click on the hyperlinks below.
 
