@@ -39,3 +39,4 @@ This assignment delves into exploratory analysis of neuroscience data, specifica
 * Part 3: Collaborative filtering for recommendation 
 * Part 4: Topic modeling for text reviews
 * Part 5: Word2Vec for text reviews
+* Part 6: Frequent pattern mining using FP-Growth algorithm
