@@ -4,9 +4,9 @@
 
 This portfolio captures the work I completed for a course, **Big Data and Large Scale Computing**, at Carnegie Mellon University in Fall 2021. The work done here involves hands-on experience with MapReduce and Apache Spark using real-world datasets. Each of the assignment below encapsulates a thorough grounding in the technologies and best practices used in Big Data Machine Learning. To view my course repository on GitHub, please click [here](https://github.com/mhmirza/BigData).
 
-# What I hope to learn?
+# Key Learnings
 
-From the course, Big Data & Large Scale Computing, I wish to garner the knowledge and practical skills to develop big data/ machine learning solutions with the state-of-the-art tools, particularly those in the Spark environment, with a focus on programming models in MLlib, GraphX, and SparkSQL.
+From the course, Big Data & Large Scale Computing, I garnered the knowledge and practical skills to develop big data/ machine learning solutions with state-of-the-art tools, particularly those in the Spark environment, with a focus on programming models in MLlib, GraphX, and SparkSQL.
 
 # Portfolio
 
