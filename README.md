@@ -34,7 +34,7 @@ This assignment delves into exploratory analysis of neuroscience data, specifica
 
 # Final Project
 
-**Brief Description:** The final project _(code to be updated)_ delves into exploratory analysis and building predictive models using the Yelp academic dataset. We will explore machine learning tasks in the context of a real-world data set using big data analysis tools. It contains the following parts:
+**Brief Description:** The [final project](https://github.com/mhmirza/BigData/blob/main/Final%20Project.ipynb) delves into exploratory analysis and building predictive models using the Yelp academic dataset. We will explore machine learning tasks in the context of a real-world data set using big data analysis tools. It contains the following parts:
 
 * Part 1: Exploratory Data Analysis
 * Part 2: Prediction using tree ensemble methods
